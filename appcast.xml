@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Parlance</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 02 Nov 2026 10:00:29 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.1.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 首个公开版本：在任意 App 里用快捷键把想说的话改写成地道的目标语，或选中看不懂的句子获得结合上下文的解释。写作与解释各 20 次免费试用；US$19 一次买断，可在 2 台 Mac 上使用。
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.1.0/Parlance-0.1.0.dmg" length="3834236" type="application/octet-stream" sparkle:edSignature="kHcGiteefYQ0kcnBlrnkFr7mYaEN4MgSpom/NASTB8GwGSn2KOh8eUeNkSd/PP6AwPKxpVDVD0hAwy7WKXe9Cg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: oi+VPel7vBCYK20mY9csycf4rrt0Jgr7QFb/poT6w34oMM/2hOLP9h+D+HyritT2dpsCxxdw5dd8fchkuh2oAQ==
+length: 1526
+-->
