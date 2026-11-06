@@ -1,8 +1,27 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Parlance</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Fri, 06 Nov 2026 20:21:06 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 0.2.0
+
+- 全文解读：选中超过 4,000 字的长文后，结果区多一个「全文解读」，一次给出结论、要你决定的事、逐节说明和术语，可以随时切回逐句翻译。
+- 命令解读：选中一行 shell 命令，逐段说明每一部分在做什么，并标出会改动文件、联网等效果。
+- 改写：新增「只改错」模式；改写建议只修真正的错误；描述一个概念时，会在一个备选说法里给出它的叫法。
+- 解释：术语卡优先挑搜索也查不到的说法。
+- 使用 Gemini 付费 key 时推荐 gemini-3.8-flash。
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.2.0/Parlance-0.2.0.dmg" length="3957558" type="application/octet-stream" sparkle:edSignature="TFlKoKyhA0KTHmwwoRmoEwKEKDQHjjlSIlZu/n1PBXIK/z7TE1GDFrU68oEHv2SBCgIvpRy92sdw6BKiyiEjCA=="/>
+        </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Mon, 02 Nov 2026 10:00:29 +0800</pubDate>
@@ -12,10 +31,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[Parlance for Mac 首个公开版本：在任意 App 里用快捷键把想说的话改写成地道的目标语，或选中看不懂的句子获得结合上下文的解释。写作与解释各 20 次免费试用；US$19 一次买断，可在 2 台 Mac 上使用。
 ]]></description>
-            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.1.0/Parlance-0.1.0.dmg" length="3834236" type="application/octet-stream" sparkle:edSignature="kHcGiteefYQ0kcnBlrnkFr7mYaEN4MgSpom/NASTB8GwGSn2KOh8eUeNkSd/PP6AwPKxpVDVD0hAwy7WKXe9Cg=="></enclosure>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.1.0/Parlance-0.1.0.dmg" length="3834236" type="application/octet-stream" sparkle:edSignature="kHcGiteefYQ0kcnBlrnkFr7mYaEN4MgSpom/NASTB8GwGSn2KOh8eUeNkSd/PP6AwPKxpVDVD0hAwy7WKXe9Cg=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: oi+VPel7vBCYK20mY9csycf4rrt0Jgr7QFb/poT6w34oMM/2hOLP9h+D+HyritT2dpsCxxdw5dd8fchkuh2oAQ==
-length: 1526
+</rss>
+<!-- sparkle-signatures:
+edSignature: ayki27pjQsbMvOuwnt96yycYX1TQglWZXDfHVyuwvcTTAu4K5M7uVE+u3HHaSOFNfITJH6cSEv6Q43+m03ihBg==
+length: 2955
 -->
