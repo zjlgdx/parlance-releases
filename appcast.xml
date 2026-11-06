@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Parlance</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Sat, 07 Nov 2026 07:05:21 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 0.2.1
+
+- 字号设为「大」或「特大」时，状态浮窗的按钮标题不再折成两行；放不下时「设置…」换到下一行。
+- 状态浮窗里较长的状态值改到名称下方显示，不再截断名称。
+- 写作浮窗底栏放不下的按钮移到第二行，浮窗不再被撑宽。
+- 设置 › 快捷键 的「浮窗内」改为一行一个快捷键。
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.2.1/Parlance-0.2.1.dmg" length="3955238" type="application/octet-stream" sparkle:edSignature="8geJFYasd4W3+kphJGxx0myvglrCrqUWoUacWRYwzVYQp3lUNBTGDVquxncNctQsOo5B1RuEhZBQfGBeAfb1CA=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Fri, 06 Nov 2026 20:21:06 +0800</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.2.0</sparkle:fullReleaseNotesLink>
@@ -36,6 +52,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ayki27pjQsbMvOuwnt96yycYX1TQglWZXDfHVyuwvcTTAu4K5M7uVE+u3HHaSOFNfITJH6cSEv6Q43+m03ihBg==
-length: 2955
+edSignature: zYsWR1xe9WQFoKRPXnVXwqq+3x0CcGODfFRVWCxVmQN3o3A/y5srP3EYi4Vx5Xg/pq1C0KSLj1cpyhm5M5koBg==
+length: 4177
 -->
