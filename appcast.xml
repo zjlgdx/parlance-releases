@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Parlance</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Wed, 11 Nov 2026 22:00:54 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.3.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 0.3.0
+
+- 新增个人术语表：
+  - 解释浮窗的每张术语卡都可以「收入术语表」，收入前可以修改译法和备注。
+  - 写作浮窗按 ⌘S，可以把这句输入和改好的表达存成一条常用说法。
+- 输入里出现已存的条目时，只把这些条目随请求发给模型，让译法前后一致。浮窗会列出这次发了哪些条目。
+- 设置新增「术语表」页：可以搜索、编辑、删除条目，导出到 Anki，在访达中显示文件，也可以关闭这项功能。关闭后 Parlance 不读取这个文件。
+- 术语表文件和命令行工具 `pl` 共用，路径是 `~/.config/parlance/glossary.jsonl`。
+- 在 Warp 里取词为空时，提示改用 Shift 加拖动来选择文字。
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.3.0/Parlance-0.3.0.dmg" length="4165327" type="application/octet-stream" sparkle:edSignature="T1BWXyA6McNSycIkwpQB4rnLek09IL2O/yA0UrYvBjh/4iryPaW3JTC+GYmYU+Rsa+SFmZnJOQgZnzg2mh5WDg=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Sat, 07 Nov 2026 07:05:21 +0800</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
@@ -52,6 +71,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: zYsWR1xe9WQFoKRPXnVXwqq+3x0CcGODfFRVWCxVmQN3o3A/y5srP3EYi4Vx5Xg/pq1C0KSLj1cpyhm5M5koBg==
-length: 4177
+edSignature: wuZcuVCe/IHmoJHVwTuccD07x9sUoVFxbSZjSsIo4ZOUQrJWK97M7dqUvm1FVT3MEadOSj1PdOmXtTTq4PNCBQ==
+length: 5769
 -->
