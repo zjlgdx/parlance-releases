@@ -6,6 +6,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Parlance</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Fri, 13 Nov 2026 21:00:53 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.4.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 0.4.0
+
+- 界面现在有英文和简体中文两种，跟随系统语言。系统语言是英语的用户升级后界面会变成英文，可以在 设置 › 通用 › 界面语言 改回简体中文，重新启动后生效。
+- The interface is now available in English and Simplified Chinese and follows the system language. If your system language is English, Parlance now appears in English after the update; to switch back, choose 简体中文 under Settings › General › Interface language and relaunch.
+- 目标语言和母语改为从列表里选，共 44 种语言；列表之外的语言仍可以用「其他…」手动填写。
+- 新增「正式度」设置（礼貌 / 随意）：目标语言区分敬语时出现，只影响用母语写、语气选「随意」的句子。
+- 改写和解释不再假定语言对是中文和英文：提示词、窗口文字识别都按设置的两种语言工作。
+- 阿拉伯语、希伯来语等从右到左的文字在写作和解释浮窗里按正确的方向排版。
+- 界面文字变长时，设置窗口、写作、解释和状态浮窗按文字调整版面，不再截断或撑宽。
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.4.0/Parlance-0.4.0.dmg" length="4429387" type="application/octet-stream" sparkle:edSignature="jP44mpvzESHxEwnZ0GL/mVLxbMZUnK4ko6KdLh2Hl1uhMS6UAYa/1tLIIZx4me1g6fa3nY520DNtzODR3KGRAA=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Wed, 11 Nov 2026 22:00:54 +0800</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.3.0</sparkle:fullReleaseNotesLink>
@@ -71,6 +90,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: wuZcuVCe/IHmoJHVwTuccD07x9sUoVFxbSZjSsIo4ZOUQrJWK97M7dqUvm1FVT3MEadOSj1PdOmXtTTq4PNCBQ==
-length: 5769
+edSignature: SD7Sw3gA1Uqti8Z8umOXpDyM1owsUD+NlyqJhIf4s/1a2uUETFPSwRdaVliJXJ27i3dPrnILWr00P4TLBRSyBA==
+length: 7755
 -->
