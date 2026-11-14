@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Parlance</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Sat, 14 Nov 2026 08:20:43 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.4.1</sparkle:fullReleaseNotesLink>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 0.4.1
+
+- 母语和目标语言设成同一种语言时，写作浮窗不再在首选下面重复一遍同样的回译。
+- When your native and target language are the same, the Write panel no longer repeats the best version as its back-translation.
+- 在解释浮窗的术语卡上点「收入术语表」时，译法只预填简短的译名，不再把整段释义填进去。
+- Add to glossary on a term card now prefills only the short translation instead of the whole definition.
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.4.1/Parlance-0.4.1.dmg" length="4437676" type="application/octet-stream" sparkle:edSignature="gOlNJSo2RBj3oPUPMnNc8JFpBPQpqXE3mPG+ElQgIYTU4IUq/i2ID9wgVFoS+1AJrENr4ETxa5RiYdUd3QSlAQ=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Fri, 13 Nov 2026 21:00:53 +0800</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.4.0</sparkle:fullReleaseNotesLink>
@@ -90,6 +106,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: SD7Sw3gA1Uqti8Z8umOXpDyM1owsUD+NlyqJhIf4s/1a2uUETFPSwRdaVliJXJ27i3dPrnILWr00P4TLBRSyBA==
-length: 7755
+edSignature: p/3a8UJEFHEgNMni15HgQtTTfO8gesmOYHea3EkqC9HLbh2gooRUPEhi3u3RYc/s8/f1QxSKs2SNEaJ4H59tBA==
+length: 9080
 -->
