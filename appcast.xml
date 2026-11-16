@@ -6,6 +6,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Parlance</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Mon, 16 Nov 2026 13:28:28 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.5.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 0.5.0
+
+- 新增「截屏解释」：按 ⌃⌥⌘S 定格指针所在的屏幕，在本机识别上面的文字；拖一个框、单击一段，或用 ⇥ / ⇧⇥ 选段后按 ↵，就能解释选中的文字。按空格选整个窗口，esc 取消。首次使用需要「屏幕录制」权限。
+- 识别错的字可以改：在截屏解释的结果里按 ⌘E（或点引用的原文）修改文字，⌘R 按改后的文字重新解释，esc 放弃修改。
+- 解释读不到选中文字时，失败卡片上多了「框选屏幕文字」入口，直接进入截屏解释。
+- 读取窗口文字作为上下文时自动检测语言，设置的两种语言之外的文字（如俄语、韩语、德语）识别得更准。
+- 修复：从术语卡片加入术语表时，译文后面是半角标点紧跟中日韩文字的，不再把后面的解释一并带入。
+- 修复：设置窗口页签栏上的头像四周不再留缝。
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.5.0/Parlance-0.5.0.dmg" length="4712207" type="application/octet-stream" sparkle:edSignature="Iqc3Cik9yIT8VCRL+gIhxx5osgUs7O4yTi9qeKzK6UI4BHvXElp5E6K3P48rXKJdkyL7fs5PbsPPS6FACLngDA=="/>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Sat, 14 Nov 2026 08:20:43 +0800</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.4.1</sparkle:fullReleaseNotesLink>
@@ -106,6 +124,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: p/3a8UJEFHEgNMni15HgQtTTfO8gesmOYHea3EkqC9HLbh2gooRUPEhi3u3RYc/s8/f1QxSKs2SNEaJ4H59tBA==
-length: 9080
+edSignature: EQlDjozCz0N/iM86JkqdzGnMrX+EkdjttiHC/LKhLFiNDdjIjjk153ci4ggO525n54ASr+dGrf/I8Yw2OvEZAw==
+length: 10854
 -->
