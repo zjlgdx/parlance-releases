@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Parlance</title>
         <item>
+            <title>0.5.1</title>
+            <pubDate>Mon, 23 Nov 2026 20:11:34 +0800</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.5.1</sparkle:fullReleaseNotesLink>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Parlance for Mac 0.5.1
+
+- 修复：文字识别模型加载失败后，截屏解释和读取窗口文字会一直显示「文字识别没有完成」、直到重启 App。现在识别失败时会自动重新准备模型，并在同一次操作里读出文字（通常十几到二十几秒）。
+- 修复：系统或 App 更新后第一次识别时，模型还在准备，电脑忙时可能超过一分钟，截屏解释原来到 60 秒就判失败。现在模型还在准备时会继续等待，最多 10 分钟，按 esc 随时取消；等待提示改为「安装或更新后的第一次要几十秒，电脑忙时更久」。
+]]></description>
+            <enclosure url="https://github.com/zjlgdx/parlance-releases/releases/download/v0.5.1/Parlance-0.5.1.dmg" length="4732360" type="application/octet-stream" sparkle:edSignature="XIxGFY80RLaGTbi+p1LptrjiRdvBjft8EbyB1XeW2o9W3O81SKT9BC6mFTCIy8x8oKFrD0rf8/cZHYznDJxDAw=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Mon, 16 Nov 2026 13:28:28 +0800</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/zjlgdx/parlance-releases/releases/tag/v0.5.0</sparkle:fullReleaseNotesLink>
@@ -124,6 +138,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: EQlDjozCz0N/iM86JkqdzGnMrX+EkdjttiHC/LKhLFiNDdjIjjk153ci4ggO525n54ASr+dGrf/I8Yw2OvEZAw==
-length: 10854
+edSignature: jWSP3jwOnRISWUqAHHVqFF1nuFggYaFbOh4z8ardD98i4yIIWNGAKROvUPNa3sMpUg+pXNw1W8UlS06N9UhzCQ==
+length: 12305
 -->
